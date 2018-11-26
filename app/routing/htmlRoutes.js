@@ -1,4 +1,5 @@
 // ===============================================================================
+// DEPENDENCIES - From Hot Restraurant Example
 // Include the path package to get the correct file path
 // ===============================================================================
 var path = require("path");
